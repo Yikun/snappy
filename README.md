@@ -146,3 +146,5 @@ Contact
 
 Snappy is distributed through GitHub. For the latest version, a bug tracker,
 and other information, see https://github.com/google/snappy.
+
+Run CI！
